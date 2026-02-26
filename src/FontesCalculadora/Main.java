@@ -25,6 +25,7 @@ public class Main {
 		} catch (Exception e) {
 			System.err.println("Erro desconhecido" + e);// TODO: handle exception
 		}
+		sc.close();
 		
 		
 	}
